@@ -6,6 +6,9 @@ Intermediate/
 DerivedDataCache/
 Saved/
 Build/
+**/plugins
+
+.vsconfig
 
 *.vscode
 *.sln
@@ -16,3 +19,5 @@ Build/
 *.sdf
 *.suo
 *.xcworkspace
+*.sln
+*.slnx
